@@ -1,4 +1,4 @@
-#stelnet
+# stelnet
 
 The most simple tool I wanted to build that can easily be replaced by the command
 ```shell
